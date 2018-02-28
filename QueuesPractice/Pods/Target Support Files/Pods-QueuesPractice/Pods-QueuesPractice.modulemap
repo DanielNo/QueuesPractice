@@ -1,0 +1,6 @@
+framework module Pods_QueuesPractice {
+  umbrella header "Pods-QueuesPractice-umbrella.h"
+
+  export *
+  module * { export * }
+}
