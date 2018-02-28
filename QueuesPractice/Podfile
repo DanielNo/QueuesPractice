@@ -7,6 +7,9 @@ target 'QueuesPractice' do
 
   # Pods for QueuesPractice
 pod 'Firebase/Core'
+pod 'FirebaseUI/Auth'
+pod 'FirebaseUI/Google'
+
 
   target 'QueuesPracticeTests' do
     inherit! :search_paths
